@@ -29,8 +29,6 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
 <p align="left">
     <a href="https://nodejs.org/en/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="60" height="60" /></a>
-    <a href="http://esp32.net/" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/esp32.jpg" alt="ESP32" width="60"
-            height="60" /> </a>
     <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="60" height="60" /></a>
