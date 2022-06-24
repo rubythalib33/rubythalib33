@@ -70,6 +70,7 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
              height="60" /> </a>
 
 </p>
+
 # Organization that I Contribute or Help to Build Their Technologies
 <p>
     <a href="https://widya.ai/" target="_blank"> <img
