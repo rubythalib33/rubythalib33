@@ -45,11 +45,20 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
     <a href="https://pytorch.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60" />
     </a>
+    <a href="https://www.pytorchlightning.ai/" target="_blank"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lightning_Logo_v2.png/400px-Lightning_Logo_v2.png" alt="pytorch lightning" height="60" />
+    </a>
+    <a href="https://huggingface.co/" target="_blank"> <img
+            src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="60" />
+    </a>
     <a href="https://scikit-learn.org/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="60" height="60" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker"
-            width="60" height="60" /> </a>
+             height="60" /> </a>
+    <a href="https://nuxtjs.org/" target="_blank"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/220px-Nuxt_logo.svg.png" alt="nuxtjs"
+             height="60" /> </a>
 
 </p>
