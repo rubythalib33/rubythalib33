@@ -60,5 +60,8 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
     <a href="https://nuxtjs.org/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/220px-Nuxt_logo.svg.png" alt="nuxtjs"
              height="60" /> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img
+            src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql"
+             height="60" /> </a>
 
 </p>
