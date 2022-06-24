@@ -42,6 +42,8 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
             height="60" /> </a>
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/tensorflow.png" alt="tensorflow"
             width="60" height="60" /> </a>
+    <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax"
+            height="60" /> </a>
     <a href="https://pytorch.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60" />
     </a>
