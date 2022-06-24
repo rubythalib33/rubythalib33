@@ -53,6 +53,9 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
     <a href="https://huggingface.co/" target="_blank"> <img
             src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="60" />
     </a>
+    <a href="https://onnx.ai/" target="_blank"> <img
+            src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" height="60" />
+    </a>
     <a href="https://scikit-learn.org/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="60" height="60" /> </a>
