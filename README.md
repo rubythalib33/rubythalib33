@@ -1,6 +1,6 @@
 # Hello World my name is Ruby Abdullah 👋
 
-I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, also an IT and Data Consultant 💻 I'm now looking for a new opportunity to work in the field of Artificial Intelligence 🤖 and data science 📊 also software development 💻
+I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, also an AI and Data Consultant 💻 I'm now looking for a new opportunity to work in the field of Artificial Intelligence 🤖 and data science 📊 also software development 💻
 
 - 🔭 I’m currently working on AI especially computer vision and software engineering
 - 🌱 I’m currently learning AI and Software Engineering
