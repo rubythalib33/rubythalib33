@@ -77,7 +77,7 @@ I'm Currently work as Head of Artificial Intelligence at Widya Robotics 🚀, al
             src="https://next.widya.ai/wp-content/uploads/2021/09/Widya-Logo-Full.png" alt="Widya Robotics" height="60" />
     </a>
     <a href="https://www.aiforindonesia.org/" target="_blank"> <img
-            src="https://www.aiforindonesia.org/static/iaiprofile/assets/img/iai-logo.png" alt="Indonesia AI" height="60" />
+            src="https://www.aiforindonesia.org/static/iaiprofile/assets/img/ai-01.png" alt="Indonesia AI" height="60" />
     </a>
     <a href="https://www.tokofilterair.com/" target="_blank"> <img
             src="https://i0.wp.com/www.tokofilterair.com/wp-content/uploads/2020/11/cropped-vavicon-1.png?w=250&ssl=1" alt="Toko Kita Water Treatment" height="60" />
