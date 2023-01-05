@@ -35,8 +35,6 @@ I'm a AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now lo
     <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
             alt="opencv" width="60" height="60" />
     </a>
-    <a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/streamlit.png" alt="flask" width="100"
-            height="80" /> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60"
             height="60" /> </a>
