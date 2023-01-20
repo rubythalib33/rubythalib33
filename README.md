@@ -80,4 +80,7 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
     <a href="https://www.tokofilterair.com/" target="_blank"> <img
             src="https://i0.wp.com/www.tokofilterair.com/wp-content/uploads/2020/11/cropped-vavicon-1.png?w=250&ssl=1" alt="Toko Kita Water Treatment" height="60" />
     </a>
+    <a href="https://lacak.io/" target="_blank"> <img
+            src="https://lacak.io/static/media/lacakio_color.1091e134.svg" alt="Lacak.io" height="60" />
+    </a>
 </p>
