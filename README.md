@@ -84,3 +84,5 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
             src="https://lacak.io/static/media/lacakio_color.1091e134.svg" alt="Lacak.io" height="60" />
     </a>
 </p>
+# Portofolio Link
+https://github.com/rubythalib33/Portofolio
