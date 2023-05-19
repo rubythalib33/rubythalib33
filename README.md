@@ -6,7 +6,7 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
 - 🌱 I’m currently learning AI and Software Engineering
 - 🤔 I’m looking to collaborate on Research, Partner Working, and amazing community
 - 💬 Ask me about AI and Software Engineering
-- 📫 How to reach me: rubyabdullah14@gmail.com
+- 📫 How to reach me: email: rubyabdullah14@gmail.com telegram: @rubythalib
 
 
 # Find me
