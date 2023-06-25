@@ -25,49 +25,15 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
             alt="rubythalib33" height="30" width="40" /></a>
 </p>
 
-# Tech Stacks
-<p align="left">
-    <a href="https://nodejs.org/en/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="60" height="60" /></a>
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="60" height="60" /></a>
-    <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-            alt="opencv" width="60" height="60" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60"
-            height="60" /> </a>
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/algonacci/Free-CDN/main/ReadMe-Logo/tensorflow.png" alt="tensorflow"
-            width="60" height="60" /> </a>
-    <a href="https://jax.readthedocs.io/en/latest/" target="_blank"> <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax"
-            height="60" /> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60" />
-    </a>
-    <a href="https://www.pytorchlightning.ai/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lightning_Logo_v2.png/400px-Lightning_Logo_v2.png" alt="pytorch lightning" height="60" />
-    </a>
-    <a href="https://huggingface.co/" target="_blank"> <img
-            src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="60" />
-    </a>
-    <a href="https://onnx.ai/" target="_blank"> <img
-            src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" height="60" />
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-            width="60" height="60" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker"
-             height="60" /> </a>
-    <a href="https://nuxtjs.org/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/220px-Nuxt_logo.svg.png" alt="nuxtjs"
-             height="60" /> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img
-            src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql"
-             height="60" /> </a>
-
-</p>
+# Technologies
+### Artificial Intelligence
+- Computer Vision
+- Natural Langage Processing
+- Forecasting
+- MLOps
+### Software Engineering
+- Fullstack Development
+- Cloud Engineering
 
 # Organization that I Contribute or Help to Build Their Technologies
 <p>
