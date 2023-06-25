@@ -85,5 +85,14 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
     </a>
 </p>
 
+# Partnership
+<p>
+        <img
+            src="assets/LOGO METROTECH.png" alt="Mitro Technology" height="60" />
+        <a href="https://zimeracorp.com/" target="_blank"> <img
+            src="https://zimeracorp.com/images/logo/logo-zimera-corp.png" alt="Zimera Corporation" height="60" />
+        </a>
+</p>
+
 # Portofolio Link
 https://github.com/rubythalib33/Portofolio
