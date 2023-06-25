@@ -33,7 +33,10 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
 - MLOps
 ### Software Engineering
 - Fullstack Development
-- Cloud Engineering
+### Programming Language
+- Python
+- Javascript
+- C++
 
 # Organization that I Contribute or Help to Build Their Technologies
 <p>
