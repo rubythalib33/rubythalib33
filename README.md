@@ -61,6 +61,15 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
         <a href="https://zimeracorp.com/" target="_blank"> <img
             src="https://zimeracorp.com/images/logo/logo-zimera-corp.png" alt="Zimera Corporation" height="60" />
         </a>
+        <a href="https://riffsys.com/" target="_blank"> <img
+            src="assets/ryfsys.png" alt="Ryfsys" height="60" />
+        </a>
+        <a href="https://hysam.id/" target="_blank"> <img
+            src="https://hysam.id/wp-content/uploads/2023/05/logo_hysam_01-300x176.png" alt="Hisyam" height="60" />
+        </a>
+        <a href="https://www.apakata.com/" target="_blank"> <img
+            src="https://www.apakata.com/wp-content/uploads/2021/10/logo-apakata2.png" alt="ApaKata" height="60" />
+        </a>
 </p>
 
 # Portofolio Link
