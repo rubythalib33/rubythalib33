@@ -72,5 +72,18 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
         </a>
 </p>
 
+# Open Source that I contribute
+<p>
+        <a href="https://github.com/unifyai/ivy" target="_blank"> <img
+            src="https://github.com/unifyai/unifyai.github.io/raw/master/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only" alt="Ivy" height="60" />
+        </a>
+        <a href="https://github.com/rubythalib33/VectorDB" target="_blank"> <img
+            src="https://github.com/rubythalib33/VectorDB/raw/main/assets/logo.png" alt="VectorDB" height="60" />
+        </a>
+        <a href="https://github.com/rubythalib33/3D-Torchvision/" target="_blank"> <img
+            src="https://github.com/rubythalib33/3D-Torchvision/raw/main/assets/logo.png" alt="3D Torchvision" height="60" />
+        </a>
+</p>
+
 # Portofolio Link
 https://github.com/rubythalib33/Portofolio
