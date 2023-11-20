@@ -52,6 +52,9 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
     <a href="https://lacak.io/" target="_blank"> <img
             src="https://lacak.io/static/media/lacakio_color.1091e134.svg" alt="Lacak.io" height="60" />
     </a>
+    <a href="https://www.linkedin.com/company/nextbyteco/about/" target="_blank"> <img
+            src="assets/nextbyte.jpeg" alt="NextByte" height="60" />
+    </a>
 </p>
 
 # Partnership
@@ -75,7 +78,7 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
 # Open Source that I contribute
 <p>
         <a href="https://github.com/unifyai/ivy" target="_blank"> <img
-            src="https://github.com/unifyai/unifyai.github.io/raw/master/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only" alt="Ivy" height="60" />
+            src="assets/ivy.png" alt="Ivy" height="60" />
         </a>
         <a href="https://github.com/rubythalib33/VectorDB" target="_blank"> <img
             src="https://github.com/rubythalib33/VectorDB/raw/main/assets/logo.png" alt="VectorDB" height="60" />
