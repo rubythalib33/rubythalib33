@@ -55,6 +55,9 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
     <a href="https://www.linkedin.com/company/nextbyteco/about/" target="_blank"> <img
             src="assets/nextbyte.jpeg" alt="NextByte" height="60" />
     </a>
+    <a href="https://www.linkedin.com/company/bracketbrick-indonesia/about/" target="_blank"> <img
+            src="assets/bracketbrick.jpeg" alt="BracketBrick" height="60" />
+    </a>
 </p>
 
 # Partnership
