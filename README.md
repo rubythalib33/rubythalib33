@@ -1,13 +1,6 @@
 # Hello World my name is Ruby Abdullah 👋
 
-I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now looking for a new opportunity to work in the field of Artificial Intelligence 🤖 and data science 📊 also software development 💻
-
-- 🔭 I’m currently working on AI especially computer vision and software engineering
-- 🌱 I’m currently learning AI and Software Engineering
-- 🤔 I’m looking to collaborate on Research, Partner Working, and amazing community
-- 💬 Ask me about AI and Software Engineering
-- 📫 How to reach me: email: rubyabdullah14@gmail.com telegram: @rubythalib
-
+CEO and AI and Data Consultant of www.rubythalib.ai
 
 # Find me
 <p align="left">
@@ -37,59 +30,3 @@ I'm an AI Fullstack Engineer 🚀, also an AI and Data Consultant 💻 I'm now l
 - Python
 - Javascript
 - C++
-
-# Organization that I Contribute or Help to Build Their Technologies
-<p>
-    <a href="https://widya.ai/" target="_blank"> <img
-            src="https://next.widya.ai/wp-content/uploads/2021/09/Widya-Logo-Full.png" alt="Widya Robotics" height="60" />
-    </a>
-    <a href="https://www.aiforindonesia.org/" target="_blank"> <img
-            src="https://aiforindonesia.org/static/iaiprofile/assets/img/ai-01.png" alt="Indonesia AI" height="60" />
-    </a>
-    <a href="https://www.tokofilterair.com/" target="_blank"> <img
-            src="https://i0.wp.com/www.tokofilterair.com/wp-content/uploads/2020/11/cropped-vavicon-1.png?w=250&ssl=1" alt="Toko Kita Water Treatment" height="60" />
-    </a>
-    <a href="https://lacak.io/" target="_blank"> <img
-            src="https://lacak.io/static/media/lacakio_color.1091e134.svg" alt="Lacak.io" height="60" />
-    </a>
-    <a href="https://www.linkedin.com/company/nextbyteco/about/" target="_blank"> <img
-            src="assets/nextbyte.jpeg" alt="NextByte" height="60" />
-    </a>
-    <a href="https://www.linkedin.com/company/bracketbrick-indonesia/about/" target="_blank"> <img
-            src="assets/bracketbrick.jpeg" alt="BracketBrick" height="60" />
-    </a>
-</p>
-
-# Partnership
-<p>
-        <img
-            src="assets/LOGO METROTECH.png" alt="Mitro Technology" height="60" />
-        <a href="https://zimeracorp.com/" target="_blank"> <img
-            src="https://zimeracorp.com/images/logo/logo-zimera-corp.png" alt="Zimera Corporation" height="60" />
-        </a>
-        <a href="https://riffsys.com/" target="_blank"> <img
-            src="assets/ryfsys.png" alt="Ryfsys" height="60" />
-        </a>
-        <a href="https://hysam.id/" target="_blank"> <img
-            src="https://hysam.id/wp-content/uploads/2023/05/logo_hysam_01-300x176.png" alt="Hisyam" height="60" />
-        </a>
-        <a href="https://www.apakata.com/" target="_blank"> <img
-            src="https://www.apakata.com/wp-content/uploads/2021/10/logo-apakata2.png" alt="ApaKata" height="60" />
-        </a>
-</p>
-
-# Open Source that I contribute
-<p>
-        <a href="https://github.com/unifyai/ivy" target="_blank"> <img
-            src="assets/ivy.png" alt="Ivy" height="60" />
-        </a>
-        <a href="https://github.com/rubythalib33/VectorDB" target="_blank"> <img
-            src="https://github.com/rubythalib33/VectorDB/raw/main/assets/logo.png" alt="VectorDB" height="60" />
-        </a>
-        <a href="https://github.com/rubythalib33/3D-Torchvision/" target="_blank"> <img
-            src="https://github.com/rubythalib33/3D-Torchvision/raw/main/assets/logo.png" alt="3D Torchvision" height="60" />
-        </a>
-</p>
-
-# Portofolio Link
-https://github.com/rubythalib33/Portofolio
